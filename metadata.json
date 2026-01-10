@@ -1,0 +1,7 @@
+{
+  "name": "GhostShare",
+  "description": "A stealthy, ultra-secure P2P file sharing platform that enables direct browser-to-browser transfers without any server storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
